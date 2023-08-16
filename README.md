@@ -6,13 +6,16 @@ are a few highlighted projects, including couple of data visualizations I create
 ## Highlighted Projects - SQL
 
 **Project 1 Analaysis**
-This project is In this project, I used a dataset from worldfake data to analyze trends in the top 50 songs of 2021.
-Using pitch-class integer notation, I examined the key and tonality for these top songs. I joined data from a Hooktheory
-database to compare the most popular song keys with the song keys most represented in the top 50 Spotify tracks of 2021.
+
+Osaday LLC is Tourism Company that faces some issues in their business operation. Therefore, the management team decided to hire me to look into their business problems and idenify the issues that need to be solved. In this project, we will look into some of their concerns such as Customer Complaints, Marketing ad performace as well as sales growth opprotunities.
+
+Before we start, let me give you a breif about the dataset, The dataset contain about 17 different tables. I have included the ERD digram (entity relationship diagram) for you to get to know the tables.
+
+**Acknowledgement: The dataset used in the project is not real. It was only created for this project.**
 
 PROJECT LINK HERE www.clickhere.com
 
-**Project 2 Analaysis**
+**Project 2 SOON**
 I used my own data from Goodreads to analyze how my book ratings differ from the average ratings found on Goodreads.
 I categorized the books by genre and obtained the average difference in rating per genre. I created another table
 containing similar data for books that won the Booker Prize for Fiction from 2000-2021 and joined this data to predict,
@@ -20,7 +23,7 @@ for each Booker Prize-winning book, what my rating would be.
 
 PROJECT LINK HERE www.clickhere.com
 
-**li>Project 3**
+**Project 2 SOON**
 This project is
 
 PROJECT LINK HERE www.clickhere.com
@@ -63,10 +66,6 @@ information points I would most want to play with.
 
 
 **Bold** 
-
-
-
-
 
 
 Hello and thanks for stopping by! This repository contains examples of SQL I've written for solo projects and while working through SQL,
