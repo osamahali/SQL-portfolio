@@ -9,7 +9,7 @@ are a few highlighted projects, including couple of data visualizations I create
 
 Osaday LLC is Tourism Company that faces some issues in their business operation. Therefore, the management team decided to hire me to look into their business problems and idenify the issues that need to be solved. In this project, we will look into some of their concerns such as Customer Complaints, Marketing ad performace as well as sales growth opprotunities.
 
-Before we start, let me give you a breif about the dataset, The dataset contain about 17 different tables. I have included the ERD digram (entity relationship diagram) for you to get to know the tables.
+Before we start, let me give you a breif about the dataset, The dataset contain about 17 different tables. to know more  I have included the ERD digram (entity relationship diagram) for you to get to know the tables.
 
 **Acknowledgement: The dataset used in the project is not real. It was only created for this project.**
 
