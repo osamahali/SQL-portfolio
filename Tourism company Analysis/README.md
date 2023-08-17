@@ -17,3 +17,5 @@ As the goal is to attract visit from around the world, we suggest to a find the 
 Next thing is we will talk to sales and marketing team to try and figure out why sales aren't lifting off, despite lots of visitors coming to their landing pages. 
 
 we will look into the issue raised by their team that might be related to ad groups and keywords but need to analyze visitor and sales data to confirm.
+
+END
