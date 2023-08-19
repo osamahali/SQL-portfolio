@@ -36,7 +36,7 @@ VALUES
     (3, 'Family Package', 12000.00, 'Spend more time with yuor family with full board.', 'Family Package'),
     (1, 'Last week offers - Baha', 6794.00, 'Take a scenic tour of the majestic mountain around albaha.', 'Scenic Tour'),
     (6, 'turkey Offers', 6000.00, 'Witness the stunning city of istanbul.', 'Food and Culture'),
-    (7, 'End of the world hiking', 70000.00, 'Embark on a safe, yet thrilling journey near to the end of the world edge of riyadh.', 'Hiking and Adventure'),
+    (7, 'End of the world hiking', 4999.00, 'Embark on a safe, yet thrilling journey near to the end of the world edge of riyadh.', 'Hiking and Adventure'),
     (8, 'Shada Mountain Package', 3500.00, 'Spend a week at our cafe, equipped with high-end kitchen and larg view point.', 'Hiking and Adventure'),
     (9, 'Thee Ain Expedition', 15000.00, 'Discover the possibilities of life on undiscovered area.', 'Hiking and Adventure'),
     (10, 'North Riyadh Desert Package', 10000.00, 'Experience the fun of playing your favorite desert sports.', 'Fitness ad Retreat'),
@@ -345,12 +345,12 @@ VALUES
     (4, 'page view', '2022-01-03 11:57:31'),
     (5, 'page view', '2022-01-04 16:33:45'),
     (5, 'search', '2022-01-04 16:35:01'),
-    (6, 'page view', '2022-01-05 10:12:48')
+    (6, 'page view', '2022-01-05 10:12:48'),
     (3, 'page view', '2022-01-03 09:19:42'),
     (4, 'search', '2022-01-03 11:57:33'),
     (7, 'page view', '2022-02-04 16:33:55'),
     (5, 'search', '2022-01-04 16:35:21'),
-    (10, 'page view', '2022-01-07 10:10:48';
+    (10, 'page view', '2022-01-07 10:10:48');
 
 
 
