@@ -57,6 +57,20 @@ We have concluded our task with Customer Support team aiming to have these impac
 
 ##### Analysis: Working with Sales & Marketing Team
 
-Another opprunit for marketing analyst is to talk to sales and other marketing team to figure out why sales aren't lifting off (if any). Not only that but also we will look into the issue raised by their team that might be related to ad groups and keywords but need to analyze visitor and sales data to confirm.
+Another opprtounity for marketing analyst is to talk to sales and other marketing team to figure out why sales aren't lifting off (if any). Not only that but also we will look into the issue raised by their team that might be related to ad groups and keywords but need to analyze visitor and sales data to confirm.
 
-Thank you very much for taking the time to visit my page
+Let's exlore some
+
+1) Sales over time
+What it shows (monthly):
+Revenue concentrates in a few bursts (not evenly distributed), with a clear spike around mid-2022 and another around Apr–May 2023. This pattern suggests batch selling/events rather than steady demand.
+
+2) Visitor source (for retargeting)
+What it shows:
+pageviews are clustered in a handful of campaigns; device mix skews Desktop/Mobile (per-campaign breakdown shown in the table). This info help us in build retargeting pools by top campaigns; tailor creatives by device mix (see the “Device Split by Campaign” table).
+
+3)  Most reliable supplier
+What it shows:
+Revenue by supplier: who drives the most sales (using “Supplier #ID” since names aren’t populated). We use this analysis to reward fast, consistent suppliers with more volume; work with slow ones (or diversify).
+
+### Thank you very much for taking the time to visit my page
