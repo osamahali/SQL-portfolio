@@ -74,8 +74,7 @@ What it shows:
 Revenue by supplier: who drives the most sales (using “Supplier #ID” since names aren’t populated). We use this analysis to reward fast, consistent suppliers with more volume; work with slow ones (or diversify).
 
 NOTE: The marketing department should look and monitor those important metrics/KPIs
-- 1: MARKETING PERFORMANCE (KPIs: clicks, leads, bookings, revenue, cost, CPL, CPA, ROAS)
-- 2: ALSO IT IS USUFUL TO SEE BEST SUPPLIER (Metrics: on_time_rate, avg_rating, refund_rate, total_trips)
+- MARKETING PERFORMANCE (KPIs: clicks, leads, bookings, revenue, cost, CPL, CPA, ROAS)
 
 
 #### Thank you very much for taking the time to visit my page
