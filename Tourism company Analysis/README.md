@@ -57,8 +57,6 @@ We have concluded our task with Customer Support team aiming to have these impac
 
 ##### Analysis: Working with Sales & Marketing Team
 
-Next thing is we will talk to sales and marketing team to try and figure out why sales aren't lifting off, despite lots of visitors coming to their landing pages. 
+Another opprunit for marketing analyst is to talk to sales and other marketing team to figure out why sales aren't lifting off (if any). Not only that but also we will look into the issue raised by their team that might be related to ad groups and keywords but need to analyze visitor and sales data to confirm.
 
-we will look into the issue raised by their team that might be related to ad groups and keywords but need to analyze visitor and sales data to confirm.
-
-##### SOON
+Thank you very much for taking the time to visit my page
